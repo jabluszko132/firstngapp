@@ -1,3 +1,11 @@
+So this is my first angular project.
+I will be trying to make anything really
+
+So yeah thats about it
+
+
+
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
